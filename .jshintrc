@@ -1,0 +1,25 @@
+{
+  "indent": 2,
+  "expr": true,
+  "bitwise": true,
+  "camelcase": true,
+  "curly": true,
+  "immed": true,
+  "noarg": true,
+  "nonew": true,
+  "plusplus": true,
+  "quotmark": "single",
+  "trailing": true,
+  "maxparams": 3,
+  "maxlen": 150,
+  "browser": true,
+  "nomen": true,
+  "node": true,
+  "undef": true,
+  "globals": {
+    "suite": true,
+    "test": true,
+    "teardown": true,
+    "setup": true
+  }
+}
