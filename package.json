@@ -1,6 +1,6 @@
 {
   "name": "junit-xml-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a simple parser for junit xml files",
   "author": "'macskeptic' Mozair Alves do Carmo Junior",
   "main": "lib/junit-xml-parser.js",
@@ -41,6 +41,7 @@
     "sinon": "~1.6.0",
     "grunt-simple-mocha": "~0.4.0",
     "grunt-link": "~0.1.1",
+    "junit-xml-parser": "*",
     "chai": "~1.5.0"
   }
 }
