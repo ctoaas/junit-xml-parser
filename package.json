@@ -5,7 +5,7 @@
   "author": "'macskeptic' Mozair Alves do Carmo Junior",
   "main": "lib/junit-xml-parser.js",
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt ci"
   },
   "repository": {
     "type": "git",
