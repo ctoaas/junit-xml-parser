@@ -12,6 +12,7 @@ function readFile(file) {
   return deferred.promise;
 }
 
-function success() { return readFile('success.xml'); }
+function target(file) { return function () { return readFile(file + '.xml'); }; }
 
-exports.success = success;
+exports.success = target('success');
+exports.error = target('error');
