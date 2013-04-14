@@ -1,4 +1,4 @@
-junit-xml-parser
+junit-xml-parser [![Build Status](https://travis-ci.org/MACSkeptic/junit-xml-parser.png?branch=master)](https://travis-ci.org/MACSkeptic/junit-xml-parser)
 ================
 
 ## install
