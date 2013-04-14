@@ -1,6 +1,6 @@
 {
   "name": "junit-xml-parser",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a simple parser for junit xml files",
   "author": "'macskeptic' Mozair Alves do Carmo Junior",
   "main": "lib/junit-xml-parser.js",
